@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(Banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+    .logo{
+    
+    height: 63px;
+    width: 199px;
+    left: 13%;
+    padding-top: 15px; 
+}
+.login{
+    align-items: center;
+    text-align: center;
+    height: 50vh;
+    width: 40%;
+    background: white;
+    color: black;
+    border-left-style: solid;
+    border-left-width: 50px;
+    border-left-color: deeppink;
+    border-radius: 35px;
+}
+.btn{
+    background-color: hotpink;
+    font-size: medium;
+}
+.heading{
+    font-family: cursive;
+    font-size: XX-large;
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+-----------------------
+
+
+.logonav{
+   
+    width: 200px;
+    height: 200px;
+    left: 25%;
+    padding-top: 3px; 
+    border-radius: 200%;
+    clip :circle(); 
+}
+   
